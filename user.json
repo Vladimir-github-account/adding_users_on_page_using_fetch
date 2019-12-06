@@ -1,0 +1,20 @@
+[
+  {
+  "name": "Name",
+  "surname": "surname",
+  "age": 21,
+  "picturePath" : "https://keenthemes.com/preview/metronic/theme/assets/pages/media/profile/profile_user.jpg"
+  },
+  {
+    "name": "Vasyasas",
+    "surname": "Vasy",
+    "age": 22,
+    "picturePath" : ""
+  },
+  {
+    "name": "dimas",
+    "surname": "Vasy",
+    "age": 22,
+    "picturePath" : "121212"
+  }
+]
